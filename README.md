@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning building desktop apps in Go using the [Fyne](https://fyne.io) GUI toolkit
 
-💞️ I’m looking to collaborate on gusiness opportunities regarding AWS cost optimization.
+💞️ I’m looking to collaborate on business opportunities regarding AWS cost optimization
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/cristimagherusan/)
