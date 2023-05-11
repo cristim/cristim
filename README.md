@@ -20,3 +20,5 @@ So far I have the following apps, and bulding new ones all the time:
 cristim/cristim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristim)](https://github.com/anuraghazra/github-readme-stats)
